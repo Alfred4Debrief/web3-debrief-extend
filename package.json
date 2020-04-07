@@ -1,0 +1,27 @@
+{
+  "name": "web3-debrief-extend",
+  "version": "0.0.1",
+  "description": "A web3 extend for Debrief-BC's protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debrief-BC/web3-debrief-extend.git"
+  },
+  "keywords": [
+    "Debrief-BC",
+    "web3"
+  ],
+  "author": "Alfred4Debrief",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Debrief-BC/web3-debrief-extend/issues"
+  },
+  "homepage": "https://github.com/Debrief-BC/web3-debrief-extend#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "web3": "^1.2.6"
+  }
+}
