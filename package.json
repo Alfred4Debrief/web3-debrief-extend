@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Debrief-BC/web3-debrief-extend#readme",
   "devDependencies": {
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "web3": "^1.2.6"
   }
 }
